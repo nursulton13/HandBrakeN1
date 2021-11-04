@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 .navbar-page{
+    max-width: 1400px;
+    margin: 0 auto;
     background-image: url(../images/Hero\ BG.png);
     background-size: cover;
 }
